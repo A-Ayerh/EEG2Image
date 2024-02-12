@@ -1,11 +1,10 @@
 # EEGStyleGAN-ADA
 Implementation of EEGStyleGAN-ADA paper [Accepted in WACV 2024]  [[Paper](https://arxiv.org/abs/2310.16532)]
 
-1. Command to train the GAN is mentioned in the Txt file: cmd_generate.txt.
-2. Checkpoints:
+1. Checkpoint: (Make sure to download this file and upload into directory: /EEGStyleGAN-ADA_CVPR40/out/00000-EEGImageCVPR40-cond-mirror-cifar-bgcfnc/)
    * EEGStyleGAN-ADA-CVPR40 [[link](https://drive.google.com/file/d/1Wk3YRcQ6UMXpPnRfqOuEe2OZdTLLBpQi/view?usp=sharing)]
-3. cd into EEGStyleGAN-ADA_CVPR40
-4. run python `generate.py --network out/00000-EEGImageCVPR40-cond-mirror-cifar-bgcfnc/network-snapshot-005322.pkl --outdir generated_images/4 --seeds 0 --data=../dataset/eeg_imagenet40_cvpr_2017_raw/test2/*`
+2. cd into EEGStyleGAN-ADA_CVPR40
+3. run 'python generate.py --network out/00000-EEGImageCVPR40-cond-mirror-cifar-bgcfnc/network-snapshot-005322.pkl --outdir generated_images/4 --seeds 0 --data=../dataset/eeg_imagenet40_cvpr_2017_raw/test2/*`
    
 ## Config
 
