@@ -3,7 +3,7 @@ Implementation of EEGStyleGAN-ADA paper [Accepted in WACV 2024]  [[Paper](https:
 
 1. Command to train the GAN is mentioned in the Txt file.
 2. Checkpoints:
-   * EEGStyleGAN-ADA-CVPR40 [[link](https://iitgnacin-my.sharepoint.com/:u:/g/personal/19210048_iitgn_ac_in/EXn-8R80rxtHjlMCzPfhL9UBj80opHXyq3MnBBXXE6IsQw?e=Xbt2zO)]
+   * EEGStyleGAN-ADA-CVPR40 [[link](https://drive.google.com/file/d/1Wk3YRcQ6UMXpPnRfqOuEe2OZdTLLBpQi/view?usp=sharing)]
    
 ## Config
 
