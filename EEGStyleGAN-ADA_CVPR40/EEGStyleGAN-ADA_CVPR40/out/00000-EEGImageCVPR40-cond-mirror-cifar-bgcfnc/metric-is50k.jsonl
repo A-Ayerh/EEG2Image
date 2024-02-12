@@ -1,1 +1,0 @@
-{"results": {"is50k_mean": 10.678823471069336, "is50k_std": 0.1298382729291916}, "metric": "is50k", "total_time": 1203.2221915721893, "total_time_str": "20m 03s", "num_gpus": 1, "snapshot_pkl": "network-snapshot-005322.pkl", "timestamp": 1706492420.1617365}
